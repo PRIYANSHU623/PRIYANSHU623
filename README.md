@@ -1,34 +1,35 @@
-## Hi, I'm Priyanshu 👋
+## Hi, I'm Priyanshu Maurya 👋
 
-AI Engineer and Full-Stack Developer building intelligent products with Python, Machine Learning, Computer Vision, React, and FastAPI. I enjoy turning ideas into scalable, real-world solutions powered by AI, data, and modern web technologies.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;Python+%7C+ML+%7C+Computer+Vision;React+%7C+FastAPI+%7C+AI+Products" alt="Typing SVG" />
-</p>
+AI Engineer and Full-Stack Developer building intelligent, real-world products using Python, Machine Learning, Computer Vision, React, and FastAPI.
 
 <p align="left">
   <a href="https://github.com/PRIYANSHU623"><img src="https://img.shields.io/badge/GitHub-PRIYANSHU623-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-maurya-516200289/"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu--Maurya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-00C2FF?style=for-the-badge" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Computer-Vision-FF6B6B?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Machine-Learning-FF6B6B?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer-Vision-00C2FF?style=for-the-badge" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AI-Products-8A2BE2?style=for-the-badge" alt="AI Products" />
 </p>
 
 ### About Me
 
-I’m a developer with a strong interest in building AI-powered applications, intelligent systems, and full-stack products that solve real-world problems. My work spans multiple domains including:
+I build AI-powered systems, computer vision solutions, and full-stack products with a strong focus on solving real-world problems. My work combines backend engineering, frontend development, AI workflows, and product thinking to deliver end-to-end solutions.
 
-- Artificial Intelligence and Machine Learning
+I am especially interested in:
+
+- AI / ML product development
 - Computer Vision and Deep Learning
-- Full-Stack Web Development
-- Python backend engineering
-- React-based product interfaces
-- AI agents and workflow automation
+- Intelligent web applications
+- Agentic AI systems and LLM workflows
+- Full-stack architecture and scalable backend design
+- Real-world deployment of practical software solutions
 
-I enjoy building products end-to-end — from idea and architecture to implementation, deployment, and practical impact.
-
-### Core Skills
+### Core Tech Stack
 
 #### Languages
 - Python
@@ -37,7 +38,7 @@ I enjoy building products end-to-end — from idea and architecture to implement
 - C / C++
 - HTML / CSS
 
-#### AI / ML / Data
+#### AI / ML / CV
 - Machine Learning
 - Deep Learning
 - Computer Vision
@@ -54,69 +55,79 @@ I enjoy building products end-to-end — from idea and architecture to implement
 - Django REST Framework
 - REST APIs
 - JWT Authentication
-- API architecture
+- PostgreSQL
+- API design and integration
 
 #### Frontend
 - React
 - JavaScript
 - TypeScript
-- UI development
-- Responsive web interfaces
+- Responsive UI development
 
-#### Tools / Platforms
-- PostgreSQL
+#### Tools & Platforms
 - Git / GitHub
-- Docker (where applicable)
-- Backblaze B2 cloud storage
+- PostgreSQL
+- Docker
+- Backblaze B2
 - Gemini Vision
 - Model Context Protocol (MCP)
-- AI agent tool orchestration
+- AI agent workflows
 
 ### Featured Projects
 
-#### 1. VoxMenter
+#### 1) VIKAS-SEED-STORE
+Full-stack AgTech platform built with FastAPI, React, and PostgreSQL.
+
+- Automated inventory onboarding through Gemini Vision
+- AI chatbot using Model Context Protocol (MCP)
+- Live database and weather metrics query workflows
+- Smart agriculture operations platform
+
+Tech: Python, FastAPI, React, PostgreSQL, AI, MCP
+
+#### 2) VoxMenter
 AI-powered interview practice platform built with FastAPI and React.
 
-- JWT authentication
+- JWT-based authentication
 - AI-driven interview evaluation
 - Question-wise audio recording
 - Cloud audio storage using Backblaze B2
-- Real-world interview simulation workflows
+- Real-world interview simulation workflow
 
 Tech: Python, FastAPI, React, PostgreSQL, B2, AI evaluation
 
-#### 2. VIKAS-SEED-STORE
-Full-stack AgTech platform using FastAPI, React, and PostgreSQL.
+#### 3) Face-Recognition-in-Crowd
+Real-time crowd face recognition system using computer vision and deep learning.
 
-- Automated inventory onboarding via Gemini Vision
-- AI-powered chatbot using Model Context Protocol (MCP)
-- Live database querying and weather metrics integration
-- Smart agriculture workflows
-
-Tech: Python, FastAPI, React, PostgreSQL, Gemini Vision, MCP
-
-#### 3. AutoStream
-Conversational AI agent designed to convert user interactions into qualified business leads for a fictional SaaS product.
-
-- AI conversation flow design
-- Lead qualification logic
-- Agent-based interaction system
-- Business automation through conversational AI
-
-Tech: Python, AI, conversational systems, automation
-
-#### 4. Face-Recognition-in-Crowd
-Computer vision and deep learning project for real-time crowd face recognition.
-
-- YOLOv8 for object detection
-- Facenet512 for feature embedding and recognition
-- Real-time face recognition pipeline
+- YOLOv8 for detection
+- Facenet512 for face embedding and recognition
+- Real-time recognition pipeline
 - Vision-based identity matching
 
-Tech: Python, OpenCV, YOLOv8, Deep Learning, Face Recognition
+Tech: Python, OpenCV, YOLOv8, Deep Learning, Computer Vision
 
-#### 5. Self-Supervised Image Inpainting via Masked Autoencoders
-Self-supervised image inpainting and feature representation using Masked Autoencoders (MAE).
+#### 4) Latency_Monitoring_using_Performance_Counter
+System performance monitoring project focused on CPU and memory latency analysis.
+
+- Performance counter monitoring
+- CPU and memory latency tracking
+- Python system instrumentation using psutil
+- Performance diagnostics for system behavior
+
+Tech: Python, Performance Counters, psutil, System Monitoring
+
+#### 5) AutoStream
+Conversational AI agent designed to convert user interactions into qualified business leads.
+
+- AI conversation flow
+- Lead qualification logic
+- Agent-driven chat interaction
+- Business automation through conversational AI
+
+Tech: Python, AI, Conversational Systems, Automation
+
+#### 6) Self-Supervised-Image-Inpainting-and-Feature-Representation-via-Masked-Autoencoders-MAE-
+Self-supervised image inpainting and feature representation project built using Masked Autoencoders (MAE).
 
 - Masked image modeling
 - Vision Transformer (ViT)
@@ -125,70 +136,58 @@ Self-supervised image inpainting and feature representation using Masked Autoenc
 
 Tech: Python, Deep Learning, MAE, Computer Vision
 
-#### 6. Cancer Type Detection using NMF and DNN
-AI project using NMF for gene expression data categorization and deep neural networks for cancer classification.
+#### 7) Cancer-Type-detection-using-NMF-
+Cancer classification project using NMF for gene expression analysis and deep neural networks for disease detection.
 
 - Gene expression analysis
-- NMF-based feature grouping
-- Deep learning-based cancer type detection
-- Data-driven medical inference
+- NMF-based clustering and feature extraction
+- Deep Learning classification pipeline
+- Medical-data-driven AI research workflow
 
-Tech: Python, Jupyter Notebook, ML, Bioinformatics, Deep Learning
+Tech: Python, Jupyter Notebook, Machine Learning, Deep Learning, Bioinformatics
 
-#### 7. Real Estate Listing and Property Management System
-End-to-end property platform integrating listing, sales/leasing, and property operations.
+#### 8) Real Estate Listing and Property Management System
+A property management and listing platform integrating operation workflows and digital listing lifecycle.
 
-- Real estate listings and lead generation
-- Tenant management and rent collection workflows
-- Maintenance and property operations management
-- Unified digital system for property business
+- Real estate listing and sales workflow
+- Tenant management and rental operations
+- Maintenance tracking
+- End-to-end property business management
 
-Tech: Python, Django, full-stack product development
+Tech: Python, Django, Full-Stack Development
 
-#### 8. Task Tracker
-A productivity application with task tracking features.
+#### 9) Task Tracker
+Productivity web app for managing tasks with a FastAPI backend and React frontend.
 
 - Add, complete, update, and remove tasks
-- FastAPI backend
-- React frontend
-- Simple and scalable task management workflow
+- API-driven workflow
+- Modern frontend interaction
 
 Tech: Python, FastAPI, React, JavaScript
 
-### What I’m Building / Exploring
+#### 10) Other notable work
+- OpenCV exploration projects
+- React learning apps and frontend experiments
+- C / C++ problem-solving and academic projects
+- Academic and assignment-based software development work
+
+### Current Focus
 
 - LLM-powered applications
-- Agentic AI systems
-- AI workflow automation
+- Agentic AI workflows
+- End-to-end AI product development
 - Computer vision pipelines
-- Full-stack product development
-- Real-world problem solving through intelligent software
+- Real-world problem solving with intelligent systems
+- Scalable full-stack application design
 
-### Career Focus
+### Why I Build
 
-I’m actively building toward a career in:
-
-- AI Engineering
-- Machine Learning Engineering
-- Python Development
-- Computer Vision
-- Full-Stack Engineering
-- AI Product Development
-
-### Open to
-
-- AI/ML opportunities
-- Python development roles
-- Full-stack engineering roles
-- AI product and prototyping work
-- Collaboration on impactful AI-driven projects
+I enjoy creating software that is not just functional but useful, measurable, and impactful. My goal is to combine AI, software engineering, and product thinking to build solutions that solve genuine user problems.
 
 ### Connect
 
-Let’s build something meaningful together.
-
 - GitHub: https://github.com/PRIYANSHU623
-- LinkedIn / contact details can be added here if you want to include them later
+- LinkedIn: https://www.linkedin.com/in/priyanshu-maurya-516200289/
 
 ---
 
@@ -197,5 +196,5 @@ Let’s build something meaningful together.
 </p>
 
 <p align="center">
-  <i>Building AI-powered solutions and scalable products that turn ideas into real-world impact.</i>
+  <i>Building intelligent products from idea to deployment.</i>
 </p>
