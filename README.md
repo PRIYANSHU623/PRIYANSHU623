@@ -3,33 +3,34 @@
 AI Engineer and Full-Stack Developer building intelligent, real-world products using Python, Machine Learning, Computer Vision, React, and FastAPI.
 
 <p align="left">
-  <a href="https://github.com/PRIYANSHU623"><img src="https://img.shields.io/badge/GitHub-PRIYANSHU623-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/priyanshu-maurya-516200289/"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu--Maurya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/PRIYANSHU623">
+    <img src="https://img.shields.io/badge/GitHub-PRIYANSHU623-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-maurya-516200289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu--Maurya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine-Learning-FF6B6B?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Computer-Vision-00C2FF?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-00C2FF?style=for-the-badge" alt="AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/Computer-Vision-FF6B6B?style=for-the-badge" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/AI-Products-8A2BE2?style=for-the-badge" alt="AI Products" />
 </p>
 
 ### About Me
 
-I build AI-powered systems, computer vision solutions, and full-stack products with a strong focus on solving real-world problems. My work combines backend engineering, frontend development, AI workflows, and product thinking to deliver end-to-end solutions.
+I build intelligent products, AI-powered systems, and scalable full-stack applications that solve real-world problems. My work spans machine learning, computer vision, backend engineering, and modern web development.
 
-I am especially interested in:
-
+I enjoy creating solutions at the intersection of:
 - AI / ML product development
 - Computer Vision and Deep Learning
-- Intelligent web applications
-- Agentic AI systems and LLM workflows
-- Full-stack architecture and scalable backend design
-- Real-world deployment of practical software solutions
+- Full-stack engineering
+- API and backend architecture
+- Real-world deployment and product thinking
 
-### Core Tech Stack
+### Core Stack
 
 #### Languages
 - Python
@@ -45,119 +46,117 @@ I am especially interested in:
 - OpenCV
 - YOLOv8
 - Facenet512
-- NMF / Clustering
+- NMF
 - Image Processing
-- Model evaluation and experimentation
+- Model Evaluation
 
-#### Backend / APIs
+#### Backend
 - FastAPI
 - Django
 - Django REST Framework
 - REST APIs
 - JWT Authentication
 - PostgreSQL
-- API design and integration
 
 #### Frontend
 - React
 - JavaScript
 - TypeScript
-- Responsive UI development
+- Responsive UI Development
 
-#### Tools & Platforms
+#### Tools
 - Git / GitHub
-- PostgreSQL
 - Docker
 - Backblaze B2
 - Gemini Vision
 - Model Context Protocol (MCP)
-- AI agent workflows
+
+---
 
 ### Featured Projects
 
-#### 1) VIKAS-SEED-STORE
+#### VIKAS-SEED-STORE
 Full-stack AgTech platform built with FastAPI, React, and PostgreSQL.
 
-- Automated inventory onboarding through Gemini Vision
+- Automated inventory onboarding with Gemini Vision
 - AI chatbot using Model Context Protocol (MCP)
-- Live database and weather metrics query workflows
+- Database and weather-driven decision support
 - Smart agriculture operations platform
 
 Tech: Python, FastAPI, React, PostgreSQL, AI, MCP
 
-#### 2) VoxMenter
+#### VoxMenter
 AI-powered interview practice platform built with FastAPI and React.
 
 - JWT-based authentication
 - AI-driven interview evaluation
 - Question-wise audio recording
 - Cloud audio storage using Backblaze B2
-- Real-world interview simulation workflow
 
-Tech: Python, FastAPI, React, PostgreSQL, B2, AI evaluation
+Tech: Python, FastAPI, React, PostgreSQL, AI, Cloud Storage
 
-#### 3) Face-Recognition-in-Crowd
+#### Face-Recognition-in-Crowd
 Real-time crowd face recognition system using computer vision and deep learning.
 
 - YOLOv8 for detection
-- Facenet512 for face embedding and recognition
-- Real-time recognition pipeline
+- Facenet512 for recognition
+- Real-time monitoring pipeline
 - Vision-based identity matching
 
-Tech: Python, OpenCV, YOLOv8, Deep Learning, Computer Vision
+Tech: Python, OpenCV, YOLOv8, Deep Learning, CV
 
-#### 4) Latency_Monitoring_using_Performance_Counter
+#### Latency_Monitoring_using_Performance_Counter
 System performance monitoring project focused on CPU and memory latency analysis.
 
 - Performance counter monitoring
-- CPU and memory latency tracking
-- Python system instrumentation using psutil
-- Performance diagnostics for system behavior
+- CPU and memory diagnostics
+- Python system instrumentation
+- Latency and resource analysis
 
-Tech: Python, Performance Counters, psutil, System Monitoring
+Tech: Python, psutil, Performance Counters, System Monitoring
 
-#### 5) AutoStream
-Conversational AI agent designed to convert user interactions into qualified business leads.
+#### AutoStream
+Conversational AI agent built to convert user interactions into qualified business leads.
 
 - AI conversation flow
 - Lead qualification logic
-- Agent-driven chat interaction
-- Business automation through conversational AI
+- Conversational automation
+- Business-driven agent workflow
 
-Tech: Python, AI, Conversational Systems, Automation
+Tech: Python, AI, Conversational Systems
 
-#### 6) Self-Supervised-Image-Inpainting-and-Feature-Representation-via-Masked-Autoencoders-MAE-
-Self-supervised image inpainting and feature representation project built using Masked Autoencoders (MAE).
+#### Self-Supervised Image Inpainting via Masked Autoencoders
+Advanced computer vision research project focused on self-supervised image reconstruction.
 
 - Masked image modeling
 - Vision Transformer (ViT)
-- Unsupervised representation learning
-- Image reconstruction and feature extraction
+- Feature representation learning
+- Image inpainting and reconstruction
 
 Tech: Python, Deep Learning, MAE, Computer Vision
 
-#### 7) Cancer-Type-detection-using-NMF-
-Cancer classification project using NMF for gene expression analysis and deep neural networks for disease detection.
+#### Cancer Type Detection using NMF and DNN
+ML project focused on gene expression analysis and cancer type classification.
 
-- Gene expression analysis
-- NMF-based clustering and feature extraction
-- Deep Learning classification pipeline
-- Medical-data-driven AI research workflow
+- NMF-based feature extraction
+- Deep neural network classification
+- Biological data analysis
+- Pattern recognition in high-dimensional data
 
-Tech: Python, Jupyter Notebook, Machine Learning, Deep Learning, Bioinformatics
+Tech: Python, Machine Learning, Deep Learning, Jupyter Notebook
 
-#### 8) Real Estate Listing and Property Management System
-A property management and listing platform integrating operation workflows and digital listing lifecycle.
+#### Real Estate Listing and Property Management System
+A full-stack property management platform for listing, rental operations, and business workflows.
 
-- Real estate listing and sales workflow
-- Tenant management and rental operations
-- Maintenance tracking
-- End-to-end property business management
+- Property listing management
+- Tenant and rent tracking
+- Maintenance workflows
+- Digital property operations system
 
 Tech: Python, Django, Full-Stack Development
 
-#### 9) Task Tracker
-Productivity web app for managing tasks with a FastAPI backend and React frontend.
+#### Task Tracker
+Task management application built with FastAPI and React.
 
 - Add, complete, update, and remove tasks
 - API-driven workflow
@@ -165,24 +164,20 @@ Productivity web app for managing tasks with a FastAPI backend and React fronten
 
 Tech: Python, FastAPI, React, JavaScript
 
-#### 10) Other notable work
-- OpenCV exploration projects
-- React learning apps and frontend experiments
-- C / C++ problem-solving and academic projects
-- Academic and assignment-based software development work
+---
 
 ### Current Focus
 
 - LLM-powered applications
-- Agentic AI workflows
+- Agentic AI systems
 - End-to-end AI product development
 - Computer vision pipelines
-- Real-world problem solving with intelligent systems
-- Scalable full-stack application design
+- Full-stack product architecture
+- Building real-world intelligent software
 
 ### Why I Build
 
-I enjoy creating software that is not just functional but useful, measurable, and impactful. My goal is to combine AI, software engineering, and product thinking to build solutions that solve genuine user problems.
+I enjoy building software that is practical, useful, and impactful. My goal is to combine artificial intelligence, engineering, and product thinking to create systems that solve real user problems.
 
 ### Connect
 
